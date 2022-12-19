@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on bringing down GCP cost.<br>
+Tech Lead in one of the Data Engineering army.<br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ I’m currently working on bringing down GCP cost.<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://storage.googleapis.com/chydlx/codepen/random-gif-generator/giphy-logo.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anupalsupertramp&icon=0&color=0)](https://visitcount.itsvg.in)
