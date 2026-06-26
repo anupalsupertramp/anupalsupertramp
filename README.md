@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Lead in one of the Data Engineering army.<br>
+Staff Engineer in one of the Data Engineering army.<br>
 
 
 ## 🌐 Socials:
